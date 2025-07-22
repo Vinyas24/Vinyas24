@@ -46,15 +46,6 @@
   </a>
 </div>
 
-
-###
-
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vinyas24/count.svg?" />
-</div>
-
 ###
 
 
