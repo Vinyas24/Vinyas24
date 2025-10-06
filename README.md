@@ -1,54 +1,87 @@
-<br clear="both">
+<!-- GitHub Profile README Template -->
+<h1 align="center">Hi 👋, I'm <code>VINYAS</code> 😉</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | Java | Spring Boot | React | Problem Solver</h3>
 
-<h2 align="center">Hi 👋! My name is VINYAS.</h2>
+---
 
-###
+### 🌟 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinyas24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-</div>
+- 🔭 I’m currently working on **Full Stack Projects using React**
+- 🌱 I’m currently learning **Spring Boot & Machine Learning**
+- 👯 I’m looking to collaborate on **Open Source Java/React projects**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, React, SQL, DSA**
+- ⚡ Fun fact: I love solving **DSA problems & exploring new frameworks**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinyas24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+---
 
-###
+### 🧰 Tech Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" width="20" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" width="20" alt="react logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" width="20" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" width="20" alt="css3 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" width="20" alt="python logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" width="20" alt="java logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" width="20" alt="git logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" width="20" alt="nodejs logo" />
-  
-</div>
+#### 💻 Languages
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-###
-<br clear="both">
+#### 🧩 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <a href="https://linkedin.com/in/v1nyas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinyas24&show_icons=true&theme=tokyonight" alt="yathish stats" height="180px"/>
+</p>
+
+---
+
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/Vinyas8/">
+    <img src="https://leetcard.jacoblin.cool/Vinyas8?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Heatmap" />
   </a>
-  <a href="https://www.instagram.com/vinyas_24/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
+### 🏆 Achievements & Contributions
 
+- 🥇 Solved 130+ DSA problems on LeetCode  
+- 🌍 Contributed to **open-source projects** on GitHub  
+- 🧑‍🏫 Mentored peers in **Spring Boot and React basics**  
+- 💻 Built multiple **end-to-end full-stack apps**
 
+---
 
+### 📫 Connect With Me
 
+<p align="center">
+  <a href="mailto:yathish@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/v1nyas/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/vinyas_24/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://leetcode.com/Vinyas8/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+---
+
+### 🧠 Fun Extras
+
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+⭐ **If you like my work, consider giving a star to my repositories!**
