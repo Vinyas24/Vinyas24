@@ -62,7 +62,7 @@
 
 ### 🏆 Achievements & Contributions
 
-- 🥇 Solved 130+ DSA problems on LeetCode  
+- 🥇 Solved 140+ DSA problems on LeetCode  
 - 🌍 Contributed to **open-source projects** on GitHub  
 - 🧑‍🏫 Mentored peers in **Spring Boot and React basics**  
 - 💻 Built multiple **end-to-end full-stack apps**
@@ -72,7 +72,7 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:yathish@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:v1ny45248@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/v1nyas/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/vinyas_24/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://leetcode.com/Vinyas8/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
