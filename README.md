@@ -40,13 +40,13 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+
+
+<!-- <p align="center">
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinyas24&show_icons=true&theme=tokyonight" alt="yathish stats" height="180px"/>
-</p>
+### 📊 GitHub Stats
+</p> -->
 
 ---
 
