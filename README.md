@@ -21,6 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 🧩 Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -63,7 +64,7 @@
 
 ### 🏆 Achievements & Contributions
 
-- 🥇 Solved 180+ DSA problems on LeetCode  
+- 🥇 Solved 190+ DSA problems on LeetCode  
 - 🌍 Contributed to **open-source projects** on GitHub  
 - 🧑‍🏫 Mentored peers in **Spring Boot and React basics**  
 - 💻 Built multiple **end-to-end full-stack apps**
