@@ -63,7 +63,7 @@
 
 ### 🏆 Achievements & Contributions
 
-- 🥇 Solved 200+ DSA problems on LeetCode  
+- 🥇 Solved 210+ DSA problems on LeetCode  
 - 🌍 Contributed to **open-source projects** on GitHub  
 - 🧑‍🏫 Mentored peers in **Spring Boot and React basics**  
 - 💻 Built multiple **end-to-end full-stack apps**
