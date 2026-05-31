@@ -1,6 +1,8 @@
 <!-- GitHub Profile README Template -->
 <h1 align="center">Hi 👋, I'm <code>VINYAS</code> 😉</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | Java | Spring Boot | React | Problem Solver</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00DF1E&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer;Backend+Developer;Exploring+Spring+and+Spring+Boot" />
+</p>
 
 ---
 
