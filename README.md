@@ -1,90 +1,134 @@
-<!-- GitHub Profile README Template -->
-<h1 align="center">Hi 👋, I'm <code>VINYAS</code> 😉</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00DF1E&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer;Backend+Developer;Exploring+Spring+and+Spring+Boot" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:36D1DC,100:5B86E5&text=Vinyas&fontSize=70&fontColor=0F172A&animation=fadeIn"/>
 </p>
 
----
-
-### 🌟 About Me
-
-- 🔭 I’m currently working on **Full Stack Projects using React**
-- 🌱 I’m currently learning **Spring Boot & Machine Learning**
-- 👯 I’m looking to collaborate on **Open Source Java/React projects**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, React, SQL, DSA**
-- ⚡ Fun fact: I love solving **DSA problems & exploring new frameworks**
-
----
-
-### 🧰 Tech Stack
-
-#### 💻 Languages
-![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🧩 Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-#### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-### GITHUB STATS
-
- <p align="center">
-  <a href="https://github.com/Vinyas24">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vinyas24&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Vinyas's GitHub Stats" height="180px" />
-  </a>
-</p>
-
----
-
-### 🧠 LeetCode Stats
+<h3 align="center">
+Java Backend Developer • Spring Boot Enthusiast • Full Stack Developer
+</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/Vinyas8/">
-    <img src="https://leetcard.jacoblin.cool/Vinyas8?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Heatmap" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;Open+Source+Learner;Always+Learning+New+Technologies" />
 </p>
-
----
-
-### 🏆 Achievements & Contributions
-
-- 🥇 Solved 220+ DSA problems on LeetCode  
-- 🌍 Contributed to **open-source projects** on GitHub  
-- 🧑‍🏫 Mentored peers in **Spring Boot and React basics**  
-- 💻 Built multiple **end-to-end full-stack apps**
-
----
-
-### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:v1ny45248@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/v1nyas/"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/vinyas_24/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://leetcode.com/Vinyas8/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://github.com/Vinyas24?tab=followers">
+<img src="https://img.shields.io/github/followers/Vinyas24?label=Followers&style=social"/>
+</a>
+
+<a href="https://github.com/Vinyas24">
+<img src="https://img.shields.io/github/stars/Vinyas24?affiliations=OWNER&style=social"/>
+</a>
+
 </p>
 
 ---
 
-### 🧠 Fun Extras
+# 👨‍💻 About Me
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+- 🎓 Computer Science Graduate
+- 💼 Interested in Backend Development
+- 🌱 Currently learning **Spring Security**, **System Design**
+- 🚀 Building Java, Spring Boot & React projects
+- 💬 Ask me about **Java, Spring Boot, REST APIs, React, SQL and DSA**
+- 🤝 Looking to collaborate on Java Open Source Projects
+- ⚡ I enjoy solving LeetCode problems and building real-world applications.
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mysql,mongodb,git,github,docker,postman,vscode,linux,html,css,js&perline=8"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vinyas24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinyas24&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="50%" src="https://streak-stats.demolab.com?user=Vinyas24&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Vinyas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinyas24&theme=tokyo-night)](https://github.com/Vinyas24)
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Learning Spring Security
+- 📚 Exploring System Design
+- 💻 Building Java Backend Projects
+- 🔥 Practicing LeetCode Daily
+- 🌍 Contributing to Open Source
+
+---
+
+# 🧩 LeetCode
+
+<p align="center">
+<a href="https://leetcode.com/Vinyas8/">
+<img src="https://leetcard.jacoblin.cool/Vinyas8?theme=dark&font=Source%20Code%20Pro&ext=heatmap"/>
+</a>
+</p>
+
+---
+
+# 📈 Coding Activity
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinyas24&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinyas24&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vinyas24&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+<a href="mailto:v1ny45248@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vnyas/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Vinyas8/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.instagram.com/v1ny4s/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+> **"First, solve the problem. Then, write the code." – John Johnson**
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, consider giving them a ⭐
+
+</p>
