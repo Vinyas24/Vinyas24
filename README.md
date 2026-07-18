@@ -46,8 +46,12 @@ Java Backend Developer • Spring Boot Enthusiast • Full Stack Developer
 # 📊 GitHub Statistics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vinyas24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinyas24&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinyas24&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinyas24&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vinyas24&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 <p align="center">
@@ -67,7 +71,7 @@ Java Backend Developer • Spring Boot Enthusiast • Full Stack Developer
 - 🚀 Learning Spring Security
 - 📚 Exploring System Design
 - 💻 Building Java Backend Projects
-- 🔥 Practicing LeetCode Daily
+- 🔥 Practicing LeetCode Questions
 - 🌍 Contributing to Open Source
 
 ---
@@ -78,19 +82,6 @@ Java Backend Developer • Spring Boot Enthusiast • Full Stack Developer
 <a href="https://leetcode.com/Vinyas8/">
 <img src="https://leetcard.jacoblin.cool/Vinyas8?theme=dark&font=Source%20Code%20Pro&ext=heatmap"/>
 </a>
-</p>
-
----
-
-# 📈 Coding Activity
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinyas24&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinyas24&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vinyas24&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
